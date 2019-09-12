@@ -1,0 +1,45 @@
+html{
+    background-color: maroon;
+}
+body{
+    width: 600px;
+    padding: 75px;
+    margin: 0 auto;
+    border: 2px solid white;
+    background-color: white;
+}
+.one{
+    
+    font-size: 18px;
+    font-variant: small-caps;
+    background-color: #808000;
+    color: white;
+
+}
+.question{
+    color: maroon;
+}
+p{
+    letter-spacing: 0.3px;
+}
+.second{
+    font-variant: small-caps;
+    font-weight: bold;
+    border: 2px solid black;
+}
+img{
+    margin: 0 auto;
+}
+h1{
+    font-family: 'Open Sans', sans-serif;
+    color: #808000;
+}
+h2, h3{
+    font-family: 'Open Sans', sans-serif;
+    color: maroon;
+}
+.box{
+    border: 2px solid grey;
+    background-color: rgb(235, 235, 235);
+    padding: 10px 50px;
+}
